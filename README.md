@@ -57,9 +57,9 @@ Actualmente amplío mis conocimientos día a día con proyectos propios en Java,
 PWA offline-first para administrar una tienda: productos, ingresos, egresos, deudas y alertas de inventario, con sincronización a la nube entre dispositivos (TypeScript, React, Vite, Tailwind, Supabase).
 
 <div align="center">
-  <a href="https://github.com/GustavoDiaz09/Admitienda"><img src="https://img.shields.io/github/languages/top/GustavoDiaz09/Admitienda?style=for-the-badge" alt="Lenguaje principal" /></a>
-  <a href="https://github.com/GustavoDiaz09/Admitienda/stargazers"><img src="https://img.shields.io/github/stars/GustavoDiaz09/Admitienda?style=for-the-badge&label=Stars" alt="Estrellas" /></a>
-  <a href="https://github.com/GustavoDiaz09/Admitienda"><img src="https://img.shields.io/github/last-commit/GustavoDiaz09/Admitienda?style=for-the-badge&label=%C3%9Altimo%20commit" alt="Último commit" /></a>
+  <a href="https://github.com/GustavoDiaz09/Admitienda" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/languages/top/GustavoDiaz09/Admitienda?style=for-the-badge" alt="Lenguaje principal" /></a>
+  <a href="https://github.com/GustavoDiaz09/Admitienda/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/GustavoDiaz09/Admitienda?style=for-the-badge&label=Stars" alt="Estrellas" /></a>
+  <a href="https://github.com/GustavoDiaz09/Admitienda" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/last-commit/GustavoDiaz09/Admitienda?style=for-the-badge&label=%C3%9Altimo%20commit" alt="Último commit" /></a>
 </div>
 
 ### Generador de Documentos
@@ -67,9 +67,9 @@ PWA offline-first para administrar una tienda: productos, ingresos, egresos, deu
 App de escritorio que convierte un PDF de lectura en un DOCX con formato idéntico a una plantilla, redactando el contenido con IA (Python, Tkinter, OpenAI, Groq, Gemini).
 
 <div align="center">
-  <a href="https://github.com/GustavoDiaz09/generador-de-documento"><img src="https://img.shields.io/github/languages/top/GustavoDiaz09/generador-de-documento?style=for-the-badge" alt="Lenguaje principal" /></a>
-  <a href="https://github.com/GustavoDiaz09/generador-de-documento/stargazers"><img src="https://img.shields.io/github/stars/GustavoDiaz09/generador-de-documento?style=for-the-badge&label=Stars" alt="Estrellas" /></a>
-  <a href="https://github.com/GustavoDiaz09/generador-de-documento"><img src="https://img.shields.io/github/last-commit/GustavoDiaz09/generador-de-documento?style=for-the-badge&label=%C3%9Altimo%20commit" alt="Último commit" /></a>
+  <a href="https://github.com/GustavoDiaz09/generador-de-documento" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/languages/top/GustavoDiaz09/generador-de-documento?style=for-the-badge" alt="Lenguaje principal" /></a>
+  <a href="https://github.com/GustavoDiaz09/generador-de-documento/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/GustavoDiaz09/generador-de-documento?style=for-the-badge&label=Stars" alt="Estrellas" /></a>
+  <a href="https://github.com/GustavoDiaz09/generador-de-documento" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/last-commit/GustavoDiaz09/generador-de-documento?style=for-the-badge&label=%C3%9Altimo%20commit" alt="Último commit" /></a>
 </div>
 
 ## Contacto
@@ -77,6 +77,6 @@ App de escritorio que convierte un PDF de lectura en un DOCX con formato idénti
 Puedes encontrarme en:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gustavo-alonso-diaz-mercado-a827a3419/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gustavoalonsomercado199@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/gustavo-alonso-diaz-mercado-a827a3419/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gustavoalonsomercado199@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
