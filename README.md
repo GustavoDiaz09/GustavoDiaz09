@@ -77,9 +77,6 @@ App de escritorio que convierte un PDF de lectura en un DOCX con formato idénti
 Puedes encontrarme en:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:tu-email@dominio.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://tu-sitio-web.com"><img src="https://img.shields.io/badge/Portafolio-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Portafolio" /></a>
+  <a href="https://www.linkedin.com/in/gustavo-alonso-diaz-mercado-a827a3419/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gustavoalonsomercado199@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
-
-*Actualiza los enlaces de LinkedIn, email y portafolio con tus URLs reales.*
