@@ -46,12 +46,12 @@ Actualmente amplío mis conocimientos día a día con proyectos propios en Java,
 ## Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoDiaz09&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="46%" alt="Estadísticas de GitHub" />
   <img src="https://streak-stats.demolab.com/?user=GustavoDiaz09&theme=github-dark&hide_border=true" width="46%" alt="Racha de contribuciones" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoDiaz09&theme=github_dark" width="46%" alt="Estadísticas de GitHub" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDiaz09&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="46%" alt="Lenguajes más usados" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GustavoDiaz09&theme=github_dark" width="46%" alt="Lenguajes más usados" />
 </div>
 
 ## Proyectos destacados
