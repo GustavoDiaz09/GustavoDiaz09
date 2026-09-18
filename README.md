@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Gustavo
 
-<!--
-**GustavoDiaz09/GustavoDiaz09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería de Software y desarrollador en formación.
 
-Here are some ideas to get you started:
+*Tecnologías*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Lenguajes:** Java · Python · C# · JavaScript · TypeScript · SQL
+
+**Frontend:** React · Vite · Tailwind CSS
+
+**Backend:** Spring Boot · .NET · Node.js · REST API
+
+**Datos:** PostgreSQL · SQL Server · IndexedDB
+
+**IA:** Gemini · Integración de APIs de IA
+
+**Otros:** Unity · Git · GitHub · Docker · Testing
+
+Construyendo proyectos de software y ampliando continuamente mis conocimientos.
