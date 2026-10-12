@@ -52,6 +52,16 @@ Actualmente amplío mis conocimientos día a día con proyectos propios en Java,
 
 ## Proyectos destacados
 
+### Servicio de Agua
+
+API REST para la gestión integral de un servicio de agua potable: clientes, tomas, medidores, lecturas de consumo, tarifas progresivas, facturación, pagos, red de distribución y reportes, con autenticación JWT y roles (Java 17, Spring Boot 3, PostgreSQL).
+
+<div align="center">
+  <a href="https://github.com/GustavoDiaz09/servicio-agua" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/languages/top/GustavoDiaz09/servicio-agua?style=for-the-badge" alt="Lenguaje principal" /></a>
+  <a href="https://github.com/GustavoDiaz09/servicio-agua/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/GustavoDiaz09/servicio-agua?style=for-the-badge&label=Stars" alt="Estrellas" /></a>
+  <a href="https://github.com/GustavoDiaz09/servicio-agua" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/last-commit/GustavoDiaz09/servicio-agua?style=for-the-badge&label=%C3%9Altimo%20commit" alt="Último commit" /></a>
+</div>
+
 ### Admitienda
 
 PWA offline-first para administrar una tienda: productos, ingresos, egresos, deudas y alertas de inventario, con sincronización a la nube entre dispositivos (TypeScript, React, Vite, Tailwind, Supabase).
